@@ -88,7 +88,6 @@ Get the tests in `spec/insert_spec.rb` to pass. Input the following 8 bears (you
 * unnamed (the bear that killed Tim didn't have a name; refer back to how to create a record that doesn't have one value)
 
 ## Part 3: `SELECT`
-
 Get the tests in `spec/select_spec.rb` to pass. Note that for this section, the database will be seeded with external data from the `lib/seed.sql` file so don't expect it to reflect the data you added above. Note: Since it's a Ruby file, write your queries as strings in the `lib/sql_queries.rb`.
 
 You may be expected to use SQL statements that you're not particularly familiar with. Make sure you use the resources and Google to find the right statements.
